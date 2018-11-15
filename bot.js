@@ -1,3 +1,6 @@
+const Discord = require('discord.js');
+const client = new Discord.Client();
+const prefix = 'fff';
 const yt_api_key = "AIzaSyDeoIH0u1e72AtfpwSKKOSy3IPp2UHzqi4"; //NourEldien Kfo
  
 const GOOGLE_API_KEY = 'AIzaSyAdORXg7UZUo7sePv97JyoDqtQVi3Ll0b8';
