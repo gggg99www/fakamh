@@ -1,0 +1,6 @@
+﻿token=NTEyOTMxNDIzMjQ2NzQ1NjAw.DtF_4w.iyMTgJAW2lMCkpZ3u-UCpKuu_qQ
+owner=499982945088569344
+prefix= E
+game= EVINT
+stayinchannel=true
+songinstatus=true 
